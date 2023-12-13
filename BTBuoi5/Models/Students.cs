@@ -8,5 +8,6 @@ namespace BTBuoi5.Models
 {
     internal class Students
     {
+        public int ID { get; set; }
     }
 }
